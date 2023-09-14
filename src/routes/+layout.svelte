@@ -49,7 +49,7 @@
 </style>
 
 <main class="flex justify-center">
-    <div class="w-full py-10">
+    <div class="w-full p-5">
         <div class="prose main-content">
             <slot />
         </div>
