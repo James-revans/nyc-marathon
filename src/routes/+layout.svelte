@@ -1,10 +1,9 @@
 <script>
     import "../app.postcss";
-
     import { page } from "$app/stores";
 </script>
 
-<nav class="flex justify-center border-b">
+<!-- <nav class="flex justify-center border-b">
     <div class="max-w-xl w-full py-3">
         <div class="flex justify-between">
             <a
@@ -39,14 +38,21 @@
             </div>
         </div>
     </div>
-</nav>
+</nav> -->
+
+<style type="text/css">
+.main-content {
+    max-width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+}
+</style>
 
 <main class="flex justify-center">
-    <div class="max-w-xl w-full py-10">
-        <article class="prose">
+    <div class="w-full py-10">
+        <div class="prose main-content">
             <slot />
-            <i>Written by <a href="https://chat.openai.com/">ChatGPT</a></i>
-        </article>
+        </div>
     </div>
 </main>
 
