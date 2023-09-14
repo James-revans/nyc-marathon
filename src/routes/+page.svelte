@@ -51,6 +51,11 @@
 <h1 class="m-0 ml-1 text-center">Help us run in the NYC Marathon!</h1>
 <p>Hello! The three of us have decided to run in the New York City Marathon this year and we could not be more excited to participate in such an incredible experience. In order to run in the marathon, we need your help! To earn a spot in the race, we each need to raise at least $3,000 for a charity of our choosing.</p>
 <p>To raise this money, we've decided to create a lottery to win two tickets to a Seahawks game! View below for details on entry and to see how this directly helps us reach our goal.</p>
+<a
+    class="btn btn-primary"
+    href="https://buy.stripe.com/fZe4jYaaGaZmc7K144">
+    Enter The Lottery
+</a>
 <div class="flex profiles">
     <div class="profile card bg-base-100 shadow-xl">
         <img
