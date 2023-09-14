@@ -48,7 +48,7 @@
     }
 </style>
 
-<h1 class="m-0 ml-1 text-center">Help us run in the NYC Marathon!</h1>
+<h1 class="pt-10 text-center">Help us run in the NYC Marathon!</h1>
 <p>Hello! The three of us have decided to run in the New York City Marathon this year and we could not be more excited to participate in such an incredible experience. In order to run in the marathon, we need your help! To earn a spot in the race, we each need to raise at least $3,000 for a charity of our choosing.</p>
 <p>To raise this money, we've decided to create a lottery to win two tickets to a Seahawks game! View below for details on entry and to see how this directly helps us reach our goal.</p>
 <a
@@ -56,6 +56,8 @@
     href="https://buy.stripe.com/fZe4jYaaGaZmc7K144">
     Enter The Lottery
 </a>
+<h1 class="pt-20">Meet the Runners</h1>
+<p>You can choose to enter the lottery for a chance to win Seahawks tickets, or you can also donate directly to each of us. A link to our charity pages can be found below.</p>
 <div class="flex profiles">
     <div class="profile card bg-base-100 shadow-xl">
         <img
@@ -158,7 +160,7 @@
     </div>
 </div>
 
-<h1 class="text-center my-5">Enter to win 2 tickets to the Seattle Seahawks!</h1>
+<h1 class="text-center mt-20">Enter to win 2 tickets to the Seattle Seahawks!</h1>
 
 <div class="flex py-6 justify-content-center seahawks-card flex-wrap p-3">
     <img
@@ -173,8 +175,8 @@
     </div>
 </div>
 
-<p>Enter for a chance to win Seahawks tickets! One $10 entry to the lottery gives you a chance to win two tickets to watch the Seattle Seahawks play the Cleveland Browns on October 29th!</p>
-<p>All proceeds to the lottery goes directly towards our charities. This is an awesome way to give back to communities in need, and to help us reach our goal to run in the New York City Marathon!</p>
+<p>Enter for a chance to win Seahawks tickets! Each $10 entry to the lottery earns you another chance to win two tickets to watch the Seattle Seahawks play the Cleveland Browns on October 29th!</p>
+<p>Remember, more entries = more chances to win those tickets! All proceeds to the lottery goes directly towards our charities. This is an awesome way to give back to communities in need, and to help us reach our goal to run in the New York City Marathon!</p>
 <a
     class="btn btn-primary"
     href="https://buy.stripe.com/fZe4jYaaGaZmc7K144">
