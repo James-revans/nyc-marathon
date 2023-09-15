@@ -46,6 +46,12 @@
     text-align: center;
     margin: 0 auto;
 }
+
+@media (max-width: 800px) {
+    .main-content {
+        text-align: left;
+    }
+}
 </style>
 
 <main class="flex justify-center">
